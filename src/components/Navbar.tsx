@@ -10,10 +10,10 @@ const Navbar = () => {
     }
   };
 
-  const handleVideoResumeClick = () => {
-    // Replace with your actual video resume URL
-    window.open('https://drive.google.com/file/d/1l0HF5kvp09FPZMXDGGvkFLOCifPNWXx1/view?usp=sharing', '_blank');
-  };
+  // const handleVideoResumeClick = () => {
+  //   // Replace with your actual video resume URL
+  //   window.open('https://drive.google.com/file/d/1l0HF5kvp09FPZMXDGGvkFLOCifPNWXx1/view?usp=sharing', '_blank');
+  // };
 
   return (
     <AppBar position="fixed">
@@ -40,7 +40,7 @@ const Navbar = () => {
           <Button color="inherit" onClick={() => scrollToSection('contact')}>
             Contact
           </Button>
-          <Button 
+          {/* <Button 
             color="inherit" 
             onClick={handleVideoResumeClick}
             startIcon={<VideocamIcon />}
@@ -52,7 +52,7 @@ const Navbar = () => {
             }}
           >
             Video Resume
-          </Button>
+          </Button> */}
         </Box>
       </Toolbar>
     </AppBar>

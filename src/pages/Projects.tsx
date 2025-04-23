@@ -35,41 +35,41 @@ const Projects = () => {
 
   const projects = [
     {
-      title: 'Quiz Management System',
-      description: 'Developed a full-stack quiz platform for LPU students, featuring OTP-based student registration, teacher-created quizzes, scheduled access, and secure result management. Implemented real-time updates and analytics dashboard for performance tracking.',
-      technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'Brevo API'],
-      githubLink: 'https://github.com/yadav-karishma/quiz_system'
+      title: 'Spotify Clone',
+      description: ' Recreated the layout and visual style of Spotify’s music player interface. Focused on responsive design using Flexbox and Grid. Gained hands-on experience with structuring web pages and CSS styling.',
+      technologies: ['HTML','CSS'],
+      githubLink: 'https://chanti2012.github.io/Spotify-Clone/'
     },
     {
-      title: 'Tic Tac Toe Game',
-      description: 'Developed an interactive Tic Tac Toe game using HTML, CSS, JavaScript, and React, featuring a clean, user-friendly interface for smooth gameplay. Integrated two-player functionality and enhanced the overall user experience with responsive design elements.',
-      technologies: ['HTML', 'CSS', 'JavaScript', 'React.js'],
-      githubLink: 'https://github.com/yadav-karishma/tic-tac-toe'
+      title: ' Simon Says Game',
+      description: 'A memory-based color sequence and Logic-based game using arrays, event listeners, and timeouts. Focused on improving logic building, event handling, and game flow control.',
+      technologies: ['HTML', 'CSS', 'JavaScript'],
+      githubLink: 'https://chanti2012.github.io/Simon-Says-Game/'
     },
     
     {
-      title: 'Restaurant Website',
-      description: 'Designed a restaurant website to deliver comprehensive information, showcase the menu, highlight special offers, and enable seamless online booking. Created an eye-catching promotional poster and implemented a pre-table booking system.',
-      technologies: ['HTML', 'CSS', 'JavaScript'],
-      githubLink: 'https://github.com/yadav-karishma/Ready-Set-Banquet-Restaurant'
+      title: 'Airbnb Clone– Full Stack Booking Platform',
+      description: ' Designed and developed a full-stack web application for property rental and booking. Key features include user authentication, property listing creation, advanced search with filters, and booking management.',
+      technologies: [ 'Node.js', 'Express.js', 'MongoDB', 'EJS' ],
+       githubLink: ''
     },
     {
       title: 'Sudoku Solver',
       description: 'Developed a Sudoku solver in Python, leveraging backtracking algorithms for efficient and accurate puzzle solving. Created a user-friendly interface for custom puzzle input and optimized the algorithm for complex puzzles.',
       technologies: ['Python', 'Backtracking Algorithm'],
-      githubLink: 'https://github.com/yadav-karishma'
+      githubLink: ''
     },
     {
       title: 'Portfolio Website',
       description: 'I designed and developed a fully responsive Portfolio Website to showcase my technical skills, projects, and achievements in a professional format. The site features an interactive user interface, smooth scrolling, and dynamic sections for About Me, Skills, Projects, Contact, and Resume download.',
       technologies: ['React.js', 'HTML', 'CSS', 'JavaScript'],
-      githubLink: 'https://github.com/yadav-karishma/my_portfolio'
+      githubLink: ''
     },
     {
       title: 'Car_EMI_Calculator',
       description: 'Developed a Car EMI Calculator using HTML, CSS, and JavaScript, providing users with an easy way to calculate monthly loan payments for car purchases. The calculator includes features for loan amount, interest rate, and loan term inputs, and displays the calculated EMI amount.',
       technologies: ['React.js', 'HTML', 'CSS', 'JavaScript'],
-      githubLink: 'https://github.com/yadav-karishma/Car_EMI_Calculator'
+      githubLink: ''
     }
 
   ];

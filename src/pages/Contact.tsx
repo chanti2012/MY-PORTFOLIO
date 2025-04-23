@@ -66,12 +66,12 @@ const Contact = () => {
                 href="mailto:karishmayadav1517@gmail.com"
                 sx={{ mb: 2 }}
               >
-                karishmayadav1517@gmail.com
+                ck3911283@gmail.com
               </Button>
               <br />
               <Button
                 startIcon={<LinkedInIcon />}
-                href="https://www.linkedin.com/in/karishma-yadav2004/"
+                href="https://www.linkedin.com/in/shekhar20/"
                 target="_blank"
                 sx={{ mb: 2 }}
               >
@@ -80,7 +80,7 @@ const Contact = () => {
               <br />
               <Button
                 startIcon={<GitHubIcon />}
-                href="https://github.com/yadav-karishma"
+                href="https://github.com/chanti2012/"
                 target="_blank"
               >
                 GitHub Profile

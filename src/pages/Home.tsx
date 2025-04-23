@@ -59,7 +59,7 @@ const Home = () => {
                 mb: 2,
               }}
             >
-              Welcome to My Portfolio
+              Hi! I'm K.Chandra Shekhar
             </Typography>
             <Typography
               variant="h5"
@@ -144,7 +144,7 @@ const Home = () => {
               }}
             >
               <img
-                src="/photo1.jpg"
+                src="/Portfolio Pic.jpg"
                 alt="Profile"
                 style={{
                   width: '100%',
