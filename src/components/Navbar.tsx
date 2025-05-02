@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppBar, Toolbar, Typography, Button, Box } from '@mui/material';
-import VideocamIcon from '@mui/icons-material/Videocam';
+// import VideocamIcon from '@mui/icons-material/Videocam';
 
 const Navbar = () => {
   const scrollToSection = (sectionId: string) => {

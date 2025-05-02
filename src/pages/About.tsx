@@ -95,7 +95,7 @@ const About = () => {
 
   const handleResumeClick = () => {
     // Replace with your actual resume URL
-    window.open('https://drive.google.com/file/d/1A66IdnfYpWACk1uGhxnSugvc4AXm9EyK/view', '_blank');
+    window.open('https://drive.google.com/file/d/1mhnSxXdc9gsvtFL-59M8NtgbXdfXVQDS/view', '_blank');
   };
 
   return (
